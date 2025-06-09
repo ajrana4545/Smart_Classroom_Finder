@@ -1,0 +1,267 @@
+RoomNo,Day,StartTime,EndTime,CourseName,FacultyName,Year,Department,Section
+LT-1,Monday,08:00,08:55,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,A
+LT-1,Monday,08:55,09:50,TCS-403,Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+B.Tech. Block Lab-1,Monday,10:10,11:05,Microprocessors Lab (G1),Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+Lab-5,Monday,10:10,11:05,Programming in Java Lab (G2),Mr. Kireet Joshi & Mr. Gulshan,2nd Year,CSE,A
+LT-1,Monday,12:00,12:55,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,A
+New Audi GEHU 5th Floor,Monday,13:55,14:50,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,A
+New Audi GEHU 5th Floor,Monday,15:10,16:00,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,A
+LT-8,Tuesday,08:00,08:55,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,A
+LT-8,Tuesday,08:55,09:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,A
+LT-1,Tuesday,10:10,11:05,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,A
+LT-1,Tuesday,11:05,12:00,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,A
+LT-1,Tuesday,13:00,13:55,TCS-403,Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+LT-1,Tuesday,13:55,14:50,TCS-403,Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+New Audi GEHU 5th Floor,Tuesday,15:10,16:00,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,A
+LT-1,Wednesday,08:00,08:55,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,A
+LT-1,Wednesday,08:55,09:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,A
+LT-1,Wednesday,10:10,11:05,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,A
+LT-1,Wednesday,11:05,12:00,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,A
+Online/Swayam,Wednesday,13:00,13:55,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,A
+LT-8,Thursday,08:00,08:55,TCS-403,Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+LT-8,Thursday,08:55,09:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,A
+Digital Lab-2,Thursday,10:10,11:05,Design and Analysis of Algorithms Lab,Dr. Upma Jain & Mr. Jagdish Chandola,2nd Year,CSE,A
+Online,Thursday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,A
+Online/Swayam,Thursday,13:55,14:50,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,A
+B.Tech. Block Lab-1,Friday,08:00,08:55,Microprocessors Lab (G2),Dr. Hemant Singh Pokhariya,2nd Year,CSE,A
+Lab-5,Friday,08:00,08:55,Programming in Java Lab (G1),Mr. Kireet Joshi & Mr. Gulshan,2nd Year,CSE,A
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,A
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,A
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,A
+Online,Friday,13:55,14:50,Competitive Programming (TOC-401),Mr. Akshay Rajput,2nd Year,CSE,A
+Lab-1,Saturday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Upma Jain & Mr. Jagdish Chandola,2nd Year,CSE,A
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,A
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,A
+TBD,Saturday,13:00,13:55,SWAYAM/Training/Extra-Curricular Activities/LIB,TBD,2nd Year,CSE,A
+LT-1,Monday,08:00,08:55,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,B
+LT-1,Monday,08:55,09:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,B
+LT-1,Monday,10:10,11:05,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,B
+LT-1,Monday,11:05,12:00,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,B
+New Audi GEHU 5th Floor,Monday,13:55,14:50,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,B
+New Audi GEHU 5th Floor,Monday,15:10,16:00,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,B
+B.Tech. Block Lab-1,Tuesday,08:00,08:55,Microprocessors Lab (G1),Dr. Sribidhya Mohanty,2nd Year,CSE,B
+Lab-5,Tuesday,08:00,08:55,Programming in Java Lab (G2),Dr. Pawan Kumar Mishra & Mr. Vidit,2nd Year,CSE,B
+LT-1,Tuesday,10:10,11:05,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,B
+LT-1,Tuesday,11:05,12:00,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,B
+CR-3,Tuesday,13:00,13:55,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,B
+New Audi GEHU 5th Floor,Tuesday,15:10,16:00,TCS-409,Mr. Akshay Rajput,2nd Year,CSE,B
+B.Tech. Block Lab-1,Wednesday,08:00,08:55,Microprocessors Lab (G2),Dr. Sribidhya Mohanty,2nd Year,CSE,B
+Lab-5,Wednesday,08:00,08:55,Programming in Java Lab (G1),Dr. Pawan Kumar Mishra & Mr. Vidit,2nd Year,CSE,B
+LT-1,Wednesday,10:10,11:05,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,B
+LT-1,Wednesday,11:05,12:00,TCS-408,Dr. D.R. Gangodkar,2nd Year,CSE,B
+LT-1,Wednesday,13:00,13:55,TCS-403,Dr. Sribidhya Mohanty,2nd Year,CSE,B
+LT-1,Wednesday,13:55,14:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,B
+LT-1,Wednesday,15:10,16:00,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,B
+Lab-2,Thursday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Upma Jain & Mr. Jagdish Chandola,2nd Year,CSE,B
+LT-1,Thursday,08:55,09:50,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,B
+LT-1,Thursday,10:10,11:05,TCS-403,Dr. Sribidhya Mohanty,2nd Year,CSE,B
+LT-1,Thursday,11:05,12:00,TCS-403,Dr. Sribidhya Mohanty,2nd Year,CSE,B
+LT-7,Friday,08:00,08:55,TCS-403,Dr. Sribidhya Mohanty,2nd Year,CSE,B
+LT-7,Friday,08:55,09:50,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,B
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,B
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,B
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,B
+Online,Friday,13:55,14:50,Competitive Programming (TOC-401),Mr. Akshay Rajput,2nd Year,CSE,B
+Lab-1,Saturday,08:00,08:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,B
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,B
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,B
+Lab-2,Monday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Anupam Singh,2nd Year,CSE,C
+Library,Monday,08:55,09:50,Library,Self Study,2nd Year,CSE,C
+CR-6,Monday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,C
+Online,Monday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,C
+Online,Monday,13:55,14:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,C
+LT-2,Tuesday,08:00,08:55,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,C
+LT-2,Tuesday,08:55,09:50,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,C
+Online,Tuesday,10:10,11:05,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,C
+New Audi GEHU 5th Floor,Tuesday,13:55,14:50,TCS-409,Dr. Anupam Singh,2nd Year,CSE,C
+New Audi GEHU 5th Floor,Tuesday,15:10,16:00,TCS-409,Dr. Anupam Singh,2nd Year,CSE,C
+B.Tech. Block Lab-1,Tuesday,16:00,16:55,Microprocessors Lab (G1),Mr. Kamlesh Kukreti,2nd Year,CSE,C
+Lab-5,Tuesday,16:00,16:55,Programming in Java Lab (G2),Dr. Jyoti Agarwal & Dr. Pawan Kumar Mishra,2nd Year,CSE,C
+LT-2,Wednesday,08:00,08:55,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,C
+LT-2,Wednesday,08:55,09:50,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,C
+B.Tech. Block Lab-1,Wednesday,10:10,11:05,Microprocessors Lab (G2),Mr. Kamlesh Kukreti,2nd Year,CSE,C
+Lab-5,Wednesday,10:10,11:05,Programming in Java Lab (G1),Dr. Jyoti Agarwal & Dr. Pawan Kumar Mishra,2nd Year,CSE,C
+New Audi GEHU 5th Floor,Wednesday,13:55,14:50,TCS-409,Dr. Anupam Singh,2nd Year,CSE,C
+New Audi GEHU 5th Floor,Wednesday,15:10,16:00,TCS-409,Dr. Anupam Singh,2nd Year,CSE,C
+Online,Wednesday,16:00,16:55,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,C
+Lab-1,Thursday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Anupam Singh,2nd Year,CSE,C
+LT-2,Thursday,08:55,09:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,C
+LT-2,Thursday,10:10,11:05,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,C
+LT-9,Thursday,13:55,14:50,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,C
+LT-1,Thursday,15:10,16:00,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,C
+Online,Thursday,16:00,16:55,Competitive Programming (TOC-401),Mr. Akshay Rajput,2nd Year,CSE,C
+LT-6,Friday,08:00,08:55,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,C
+LT-6,Friday,08:55,09:50,TCS-402,Dr. Vikas Tripathi,2nd Year,CSE,C
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,C
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,C
+LT-5,Friday,13:00,13:55,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,C
+LT-5,Friday,13:55,14:50,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,C
+TBD,Friday,15:10,16:00,Project Based Learning,TBD,2nd Year,CSE,C
+LT-2,Saturday,08:00,08:55,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,C
+LT-2,Saturday,08:55,09:50,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,C
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,C
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,C
+Online,Saturday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,C
+TBD,Saturday,13:55,14:50,SWAYAM/Training/Extra-Curricular Activities/LIB,TBD,2nd Year,CSE,C
+Swayam,Monday,08:00,08:55,TCS-465 (Linear Algebra),Dr. Teekam Singh,2nd Year,CSE,D
+LT-5,Monday,10:10,11:05,TCS-408 (Programming in Java),Dr. Jyoti Agarwal,2nd Year,CSE,D
+Lab-2,Monday,11:05,12:55,Microprocessors Lab (G1),Dr. Pradeep Juneja,2nd Year,CSE,D
+Lab-7,Monday,11:05,12:55,Programming in Java Lab (G2),Dr. Jyoti Agarwal & Ms. Isha Deshmukh,2nd Year,CSE,D
+Library,Monday,13:00,13:55,Library,Self Study,2nd Year,CSE,D
+New Audi GEHU 5th Floor,Monday,13:55,14:50,TCS-409 (DAA),Mr. Akshay Rajput,2nd Year,CSE,D
+New Audi GEHU 5th Floor,Monday,15:10,16:00,TCS-409 (DAA),Mr. Akshay Rajput,2nd Year,CSE,D
+Swayam,Tuesday,08:00,08:55,TCS-465 (Linear Algebra),Dr. Teekam Singh,2nd Year,CSE,D
+LT-7,Tuesday,10:10,11:05,TCS-408 (Programming in Java),Dr. Jyoti Agarwal,2nd Year,CSE,D
+LT-2,Tuesday,11:05,12:00,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,D
+LT-2,Tuesday,12:00,12:55,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,D
+LT-2,Tuesday,13:00,13:55,TCS-403 (Microprocessors),Dr. Pradeep Juneja,2nd Year,CSE,D
+Online,Tuesday,15:10,16:00,TOC-401 (Audit Course),Ms. Meenakshi Maindola,2nd Year,CSE,D
+New Audi GEHU 5th Floor,Tuesday,16:00,16:55,TCS-409 (DAA),Mr. Akshay Rajput,2nd Year,CSE,D
+LT-7,Wednesday,08:00,08:55,TCS-408 (Programming in Java),Dr. Jyoti Agarwal,2nd Year,CSE,D
+LT-7,Wednesday,08:55,09:50,TCS-403 (Microprocessors),Dr. Pradeep Juneja,2nd Year,CSE,D
+LT-2,Wednesday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,D
+LT-2,Wednesday,11:05,12:00,TCS-402 (FAFL),Mr. Piyush Agarwal,2nd Year,CSE,D
+Library,Wednesday,13:00,13:55,Library,Self Study,2nd Year,CSE,D
+Swayam,Wednesday,13:55,14:50,TCS-433 (Blockchain),Mr. Siddhant Thapliyal,2nd Year,CSE,D
+Online,Wednesday,15:10,16:00,TOC-401 (Competitive Programming),Ms. Meenakshi Maindola,2nd Year,CSE,D
+Lab-1,Thursday,08:00,09:50,Microprocessors Lab (G2),Dr. Pradeep Juneja,2nd Year,CSE,D
+Lab-5,Thursday,08:00,09:50,Programming in Java Lab (G1),Dr. Jyoti Agarwal & Ms. Isha Deshmukh,2nd Year,CSE,D
+Aryabhatt First Floor Lab,Thursday,10:10,12:00,Design and Analysis of Algorithms Lab,Dr. Hradesh Kumar,2nd Year,CSE,D
+Library,Thursday,13:00,13:55,Library,Self Study,2nd Year,CSE,D
+LT-5,Thursday,13:55,14:50,TCS-402 (FAFL),Mr. Piyush Agarwal,2nd Year,CSE,D
+LT-5,Thursday,15:10,16:00,TCS-403 (Microprocessors),Dr. Pradeep Juneja,2nd Year,CSE,D
+LT-2,Friday,08:00,08:55,TCS-408 (Programming in Java),Dr. Jyoti Agarwal,2nd Year,CSE,D
+LT-2,Friday,08:55,09:50,TCS-403 (Microprocessors),Dr. Pradeep Juneja,2nd Year,CSE,D
+LT-2,Friday,10:10,11:05,Elective,Respective Faculty,2nd Year,CSE,D
+LT-2,Friday,11:05,12:00,Elective,Respective Faculty,2nd Year,CSE,D
+Project Room,Friday,13:00,13:55,Project Based Learning,Project Mentor,2nd Year,CSE,D
+Project Room,Friday,13:55,14:50,Project Based Learning,Project Mentor,2nd Year,CSE,D
+Aryabhatt First Floor Lab,Friday,15:10,16:55,Design and Analysis of Algorithms Lab,Dr. Hradesh Kumar,2nd Year,CSE,D
+LT-1,Saturday,08:00,08:55,TCS-402 (FAFL),Mr. Piyush Agarwal,2nd Year,CSE,D
+LT-1,Saturday,08:55,09:50,TCS-402 (FAFL),Mr. Piyush Agarwal,2nd Year,CSE,D
+LT-2,Saturday,10:10,11:05,Elective,Respective Faculty,2nd Year,CSE,D
+LT-2,Saturday,11:05,12:00,Elective,Respective Faculty,2nd Year,CSE,D
+Online,Saturday,13:00,13:55,TOC-401 (Audit Course),Ms. Meenakshi Maindola,2nd Year,CSE,D
+Various,Saturday,14:00,16:00,SWAYAM/Training/Extra-Curricular Activities/LIB,Various,2nd Year,CSE,D
+Lab-2,Monday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Anupam Singh,2nd Year,CSE,E
+B.Tech. Block Lab-5,Monday,08:55,09:50,Microprocessors Lab,Dr. Abhay Sharma,2nd Year,CSE,E
+CR-6,Monday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,E
+CR-6,Monday,11:05,12:00,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,E
+CR-6,Monday,12:00,12:55,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,E
+Online,Monday,13:55,14:50,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,E
+LT-2,Tuesday,08:00,08:55,TCS-408,Dr. Amit Kumar,2nd Year,CSE,E
+LT-2,Tuesday,08:55,09:50,TCS-408,Dr. Amit Kumar,2nd Year,CSE,E
+B.Tech. Block Lab-1,Tuesday,10:10,11:05,Microprocessors Lab (G1),Ms. Poonam Raturi,2nd Year,CSE,E
+Lab-5,Tuesday,10:10,11:05,Programming in Java Lab (G2),Dr. Amit Kumar & Mr. Chitransh,2nd Year,CSE,E
+CR-2,Tuesday,13:00,13:55,TCS-402,Mr. Vivek Tomer,2nd Year,CSE,E
+CR-2,Tuesday,13:55,14:50,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,E
+CR-3,Wednesday,08:00,08:55,TCS-402,Mr. Vivek Tomer,2nd Year,CSE,E
+CR-3,Wednesday,08:55,09:50,TCS-402,Mr. Vivek Tomer,2nd Year,CSE,E
+Lab-2,Wednesday,10:10,11:05,Design and Analysis of Algorithms Lab,Mr. Rohan Verma,2nd Year,CSE,E
+Online,Wednesday,13:55,14:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,E
+LT-5,Thursday,08:00,08:55,TCS-402,Mr. Vivek Tomer,2nd Year,CSE,E
+LT-5,Thursday,08:55,09:50,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,E
+B.Tech. Block Lab-1,Thursday,10:10,11:05,Microprocessors Lab (G2),Ms. Poonam Raturi,2nd Year,CSE,E
+Lab-5,Thursday,10:10,11:05,Programming in Java Lab (G1),Dr. Amit Kumar & Mr. Chitransh,2nd Year,CSE,E
+LT-2,Thursday,13:55,14:50,TCS-409,Dr. Anupam Singh,2nd Year,CSE,E
+CR-6,Friday,08:00,08:55,TCS-403,Dr. Abhay Sharma,2nd Year,CSE,E
+CR-6,Friday,08:55,09:50,TCS-408,Dr. Amit Kumar,2nd Year,CSE,E
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,E
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,E
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,E
+LT-2,Saturday,08:00,08:55,TCS-408,Dr. Amit Kumar,2nd Year,CSE,E
+LT-2,Saturday,08:55,09:50,TCS-408,Dr. Amit Kumar,2nd Year,CSE,E
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,E
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,E
+Lab-2,Monday,08:00,08:55,Design and Analysis of Algorithms Lab,Mr. Rohan Verma,2nd Year,CSE,F
+Lab-1,Monday,08:55,09:50,TCS-402,Mr. Shivam Joshi,2nd Year,CSE,F
+CR-3,Monday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,F
+Online,Monday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,F
+Online,Monday,13:55,14:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,F
+LT-3,Tuesday,08:00,08:55,TCS-408,Mr. Aditya Bisht,2nd Year,CSE,F
+LT-3,Tuesday,08:55,09:50,TCS-408,Mr. Aditya Bisht,2nd Year,CSE,F
+Lab-5,Tuesday,10:10,11:05,Programming in Java Lab (G1),Ms. Niharika Mishra & Mr. Chitransh,2nd Year,CSE,F
+B.Tech. Block Lab-1,Tuesday,10:10,11:05,Microprocessors Lab (G2),Dr. Abhay Sharma,2nd Year,CSE,F
+CR-4,Tuesday,13:00,13:55,TCS-402,Mr. Shivam Joshi,2nd Year,CSE,F
+CR-4,Tuesday,13:55,14:50,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+CR-6,Wednesday,08:00,08:55,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+CR-6,Wednesday,08:55,09:50,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,F
+Lab-5,Wednesday,10:10,11:05,Programming in Java Lab (G2),Ms. Niharika Mishra & Mr. Chitransh,2nd Year,CSE,F
+B.Tech. Block Lab-1,Wednesday,10:10,11:05,Microprocessors Lab (G1),Dr. Abhay Sharma,2nd Year,CSE,F
+CR-6,Wednesday,13:00,13:55,TCS-402,Mr. Shivam Joshi,2nd Year,CSE,F
+Online,Wednesday,13:55,14:50,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,F
+LT-3,Thursday,08:00,08:55,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+LT-3,Thursday,08:55,09:50,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+CR-6,Thursday,10:10,11:05,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,F
+LT-3,Thursday,11:05,12:00,TCS-408,Mr. Aditya Bisht,2nd Year,CSE,F
+CR-5,Friday,08:00,08:55,TCS-408,Mr. Aditya Bisht,2nd Year,CSE,F
+CR-5,Friday,08:55,09:50,TCS-408,Mr. Aditya Bisht,2nd Year,CSE,F
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,F
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,F
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,F
+LT-3,Saturday,08:00,08:55,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+LT-3,Saturday,08:55,09:50,TCS-403,Ms. Niharika Mishra,2nd Year,CSE,F
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,F
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,F
+Lab-2,Monday,08:00,08:55,Design and Analysis of Algorithms Lab,Dr. Teekam Singh,2nd Year,CSE,G
+LT-2,Monday,08:55,09:50,TCS-408,Dr. Amit Kumar,2nd Year,CSE,G
+CR-6,Monday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,G
+LT-2,Monday,11:05,12:00,TCS-408,Dr. Amit Kumar,2nd Year,CSE,G
+LT-2,Monday,12:00,12:55,TCS-408,Dr. Amit Kumar,2nd Year,CSE,G
+Online,Monday,13:55,14:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,G
+LT-2,Tuesday,08:00,08:55,TCS-402,Dr. Teekam Singh,2nd Year,CSE,G
+LT-2,Tuesday,08:55,09:50,TCS-402,Dr. Teekam Singh,2nd Year,CSE,G
+Lab-5,Tuesday,10:10,11:05,Programming in Java Lab (G2),Dr. Jyoti Agarwal & Mr. Chitransh,2nd Year,CSE,G
+B.Tech. Block Lab-1,Tuesday,10:10,11:05,Microprocessors Lab (G1),Dr. Abhay Sharma,2nd Year,CSE,G
+LT-2,Tuesday,13:00,13:55,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+Online,Tuesday,13:55,14:50,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,G
+LT-3,Wednesday,08:00,08:55,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,G
+LT-3,Wednesday,08:55,09:50,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+Lab-5,Wednesday,10:10,11:05,Programming in Java Lab (G1),Dr. Jyoti Agarwal & Mr. Chitransh,2nd Year,CSE,G
+B.Tech. Block Lab-1,Wednesday,10:10,11:05,Microprocessors Lab (G2),Dr. Abhay Sharma,2nd Year,CSE,G
+LT-3,Wednesday,13:00,13:55,TCS-402,Dr. Teekam Singh,2nd Year,CSE,G
+Online,Wednesday,13:55,14:50,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,G
+LT-5,Thursday,08:00,08:55,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+LT-5,Thursday,08:55,09:50,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+CR-6,Thursday,10:10,11:05,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,G
+Online,Thursday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,G
+CR-2,Friday,08:00,08:55,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+CR-2,Friday,08:55,09:50,TCS-408,Dr. Amit Kumar,2nd Year,CSE,G
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,G
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,G
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,G
+LT-5,Saturday,08:00,08:55,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+LT-5,Saturday,08:55,09:50,TCS-403,Dr. Amit Kumar,2nd Year,CSE,G
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,G
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,G
+Lab-2,Monday,08:00,08:55,Design and Analysis of Algorithms Lab,Mr. Jagdish Chandola,2nd Year,CSE,H
+LT-1,Monday,08:55,09:50,TCS-403,Dr. Upma Jain,2nd Year,CSE,H
+CR-6,Monday,10:10,11:05,Career Skills (QAR),Mr. Abhinav Sharma,2nd Year,CSE,H
+LT-1,Monday,11:05,12:00,TCS-403,Dr. Upma Jain,2nd Year,CSE,H
+LT-1,Monday,12:00,12:55,TCS-403,Dr. Upma Jain,2nd Year,CSE,H
+Online,Monday,13:55,14:50,TCS-433 (Through Swayam),Mr. Siddhant Thapliyal,2nd Year,CSE,H
+LT-1,Tuesday,08:00,08:55,TCS-402,Dr. Pawan Kumar Mishra,2nd Year,CSE,H
+LT-1,Tuesday,08:55,09:50,TCS-402,Dr. Pawan Kumar Mishra,2nd Year,CSE,H
+Lab-5,Tuesday,10:10,11:05,Programming in Java Lab (G1),Dr. Jyoti Agarwal & Mr. Chitransh,2nd Year,CSE,H
+B.Tech. Block Lab-1,Tuesday,10:10,11:05,Microprocessors Lab (G2),Mr. Kamlesh Kukreti,2nd Year,CSE,H
+LT-1,Tuesday,13:00,13:55,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+Online,Tuesday,13:55,14:50,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,H
+LT-2,Wednesday,08:00,08:55,Career Skills (Verbal),Ms. Shweta Bajaj,2nd Year,CSE,H
+LT-2,Wednesday,08:55,09:50,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+Lab-5,Wednesday,10:10,11:05,Programming in Java Lab (G2),Dr. Jyoti Agarwal & Mr. Chitransh,2nd Year,CSE,H
+B.Tech. Block Lab-1,Wednesday,10:10,11:05,Microprocessors Lab (G1),Mr. Kamlesh Kukreti,2nd Year,CSE,H
+LT-2,Wednesday,13:00,13:55,TCS-402,Dr. Pawan Kumar Mishra,2nd Year,CSE,H
+Online,Wednesday,13:55,14:50,TCS-465 (Through Swayam),Dr. Teekam Singh,2nd Year,CSE,H
+LT-2,Thursday,08:00,08:55,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+LT-2,Thursday,08:55,09:50,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+CR-6,Thursday,10:10,11:05,Career Skills (Soft Skills),Ms. Shweta Bajaj,2nd Year,CSE,H
+Online,Thursday,13:00,13:55,TOC-401 (Audit Course),Mr. Akshay Rajput,2nd Year,CSE,H
+LT-1,Friday,08:00,08:55,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+LT-1,Friday,08:55,09:50,TCS-408,Dr. Jyoti Agarwal,2nd Year,CSE,H
+Varies,Friday,10:10,11:05,Elective,Varies,2nd Year,CSE,H
+Varies,Friday,11:05,12:00,Elective,Varies,2nd Year,CSE,H
+TBD,Friday,13:00,13:55,Project Based Learning,TBD,2nd Year,CSE,H
+LT-2,Saturday,08:00,08:55,TCS-403,Dr. Upma Jain,2nd Year,CSE,H
+LT-2,Saturday,08:55,09:50,TCS-403,Dr. Upma Jain,2nd Year,CSE,H
+Varies,Saturday,10:10,11:05,Elective,Varies,2nd Year,CSE,H
+Varies,Saturday,11:05,12:00,Elective,Varies,2nd Year,CSE,H
